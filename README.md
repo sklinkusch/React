@@ -1,4 +1,4 @@
-# react
+# React
 
 This is an overview over my projects on Github using React.js as the core technology.
 
