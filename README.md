@@ -45,3 +45,6 @@ This is an overview over my projects on Github using React.js as the core techno
   - forked from [taniarascia/react-tutorial](https://github.com/taniarascia/react-tutorial)
   - description: A walkthrough of basic React concepts
   - [link to repository](https://github.com/sklinkusch/react-tutorial)
+- react-router
+  - description: first example using React-router
+  - [link to repository](https://github.com/sklinkusch/react-router)
