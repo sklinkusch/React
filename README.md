@@ -48,3 +48,7 @@ This is an overview over my projects on Github using React.js as the core techno
 - react-router
   - description: first example using React-router
   - [link to repository](https://github.com/sklinkusch/react-router)
+- react-proptypes
+  - description: example for the usage of proptypes in react
+  - [link to repository](https://github.com/sklinkusch/react-proptypes)
+
