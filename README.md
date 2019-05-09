@@ -55,4 +55,7 @@ This is an overview over my projects on Github using React.js as the core techno
 - react-proptypes
   - description: example for the usage of proptypes in react
   - [link to repository](https://github.com/sklinkusch/react-proptypes)
+- react-refs
+  - description: refs in react
+  - [link to repository](https://github.com/sklinkusch/react-refs)
 
