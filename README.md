@@ -2,8 +2,12 @@
 
 This is an overview over my projects on Github using React.js as the core technology.
 
-## React projects published on Github pages
+## React projects published on Github pages or on now.sh
 
+- country-db
+  - description: copy of the branch sklinkusch_solution @FbW12
+  - [link to repository](https://github.com/sklinkusch/country-db)
+  - [link to now.sh](https://countrydb.sklinkusch.now.sh)
 - nice-chat
   - description: chat mockup using React components
   - [link to repository](https://github.com/sklinkusch/nice-chat)
