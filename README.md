@@ -33,6 +33,10 @@ This is an overview over my projects on Github using React.js as the core techno
   - description: refactoring of JS-weather using React.js and Context
   - [link to repository](https://github.com/sklinkusch/react-weather)
   - [link to now.sh](https://react-weather.sklinkusch.now.sh/)
+- rick-and-morty-graphql
+  - description: Rick and Morty characters and episodes based on GraphQL requests
+  - [link to repository](https://github.com/sklinkusch/rick-and-morty-graphql)
+  - [link to Github pages](https://sklinkusch.github.io/rick-and-morty-graphql/)
 - sound-of-react
   - description: refactored Sound of Silence using React.js and deploy it to now.sh
   - [link to repository](https://github.com/sklinkusch/sound-of-react)
