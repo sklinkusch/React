@@ -4,10 +4,6 @@ This is an overview over my projects on Github using React.js as the core techno
 
 ## React projects published on Github pages or on now.sh
 
-- country-db
-  - description: copy of the branch sklinkusch_solution @FbW12
-  - [link to repository](https://github.com/sklinkusch/country-db)
-  - [link to now.sh](https://countrydb.sklinkusch.now.sh)
 - nice-chat
   - description: chat mockup using React components
   - [link to repository](https://github.com/sklinkusch/nice-chat)
@@ -61,6 +57,9 @@ This is an overview over my projects on Github using React.js as the core techno
   - forked from [taniarascia/react-tutorial](https://github.com/taniarascia/react-tutorial)
   - description: A walkthrough of basic React concepts
   - [link to repository](https://github.com/sklinkusch/react-tutorial)
+- country-db
+  - description: copy of the branch sklinkusch_solution @FbW12
+  - [link to repository](https://github.com/sklinkusch/country-db)
 - react-router
   - description: first example using React-router
   - [link to repository](https://github.com/sklinkusch/react-router)
